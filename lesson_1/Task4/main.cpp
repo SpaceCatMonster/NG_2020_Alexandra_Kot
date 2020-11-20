@@ -12,9 +12,9 @@ int main()
   }
   if(a>1000 && a<1000000){
     cout<<"Tak derzhat!";
-    if(a>1000000){
-    cout<<"Ti millioner!";
-  }
+      if(a>1000000){
+        cout<<"Ti millioner!";
+      }
   }
 
   cout<<" no ti molodec!";
